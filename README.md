@@ -84,3 +84,20 @@ Implements the Business Intelligence presentation layer, documentation, business
 ## Dataset:
 
 https://www.kaggle.com/datasets/alfarisbachmid/dirty-financial-transactions-dataset
+
+---
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="Images/Greeting.png" alt="Greeting" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td><img src="Images/KPI_Overview.png" alt="KPI Overview" width="100%"></td>
+    <td><img src="Images/Product_Perfrormance.png" alt="Product Performance" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="Images/RFM_Segmentation.png" alt="RFM Segmentation" width="100%"></td>
+    <td><img src="Images/Customer_Operations.png" alt="Customer Operations" width="100%"></td>
+  </tr>
+</table>
