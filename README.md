@@ -94,7 +94,7 @@ https://www.kaggle.com/datasets/alfarisbachmid/dirty-financial-transactions-data
   </tr>
   <tr>
     <td><img src="Images/KPI_Overview.png" alt="KPI Overview" width="100%"></td>
-    <td><img src="Images/Product_Perfrormance.png" alt="Product Performance" width="100%"></td>
+    <td><img src="Images/Product_Performance.png" alt="Product Performance" width="100%"></td>
   </tr>
   <tr>
     <td><img src="Images/RFM_Segmentation.png" alt="RFM Segmentation" width="100%"></td>
